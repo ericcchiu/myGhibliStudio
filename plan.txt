@@ -1,0 +1,28 @@
+// Project Goals 
+  - Revamp Ghibli Studio museum website 
+  - Replicate certain features in the web
+
+
+// Features 
+  1. Add a navigation menu bar containing items: Home, News, Tickets, Contact Us 
+  2. Add a Map of the Ghibli Studio exhibit 
+  3. Add relevant page contents from official Ghibli studio page 
+  3. Clicking home item on the navigation menu brings the user back to the home page and refreshes the page 
+  4. Basic CSS
+  5. Add payment forms for tickets page 
+
+ MVP: 
+   1. Static horizontal navigation bar with icons: Home, News, Tickets, About Us, Store 
+      1a. Fixed/Sticky Navigation bar 
+      1b. Active/Current Navigation Link 
+      1c. Add a refresh event listener to Home content when clicking home.  
+
+   2. Basic CSS 
+   3. 
+   4. Dynamic Navigation bar
+
+ MVP++: 
+   1. Dynamic Navigation bar 
+
+
+
