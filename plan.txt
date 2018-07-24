@@ -23,6 +23,7 @@
 
  MVP++: 
    1. Dynamic Navigation bar 
+   5. Tickets payment page 
 
 
 
