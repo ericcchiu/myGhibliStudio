@@ -3,6 +3,25 @@ body {
 	margin: 0 auto;
 	  background-color: #f5ffd9;
 }
+/*Align titles */ 
+h1 { 
+   text-align: center;
+   width: 400px;
+}
+
+/* Letter and Word space*/
+p { 
+   line-height: 2em;
+   width: 600px;
+   
+}
+/*Font colors */
+h1, h2, p { 
+
+   color: #261e1d;
+}
+
+
 
 /*Container for navigation bar */
 ul {
@@ -11,9 +30,9 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: #57b4c6;
-    position: -webkit-sticky; /* Safari */
-    position: sticky;
-    top: 0;
+    position: fixed; 
+    top: 0; 
+    width: 90%;
 }
 
 li {
@@ -37,8 +56,21 @@ li a:hover {
     background-color: #4CAF50;
 }
 
-/*Centering home page image*/
-img.align-center { 
+/* News Html styling */ 
+/* Article Title Styling */
+.news-title { 
+   padding-top: 40px;
+   text-align: center;
+}
+
+/*Centering images */
+img.walk { 
 	display: block; 
 	margin: 0px auto;
+
+}
+
+img.welcome { 
+	display: block; 
+	margin: 40px 0px 5px 440px;
 }
